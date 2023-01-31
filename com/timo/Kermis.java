@@ -19,6 +19,8 @@ public class Kermis {
 	
 	Scanner input = new Scanner(System.in);
 	
+	// constructor
+	
 	Kermis() {
 		System.out.println("Attractions are being set up...");
 		constructAttraction(bumperCars, "Ultra Bumpercars", 2.50, 40.00, 0);
